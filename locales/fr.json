@@ -71,8 +71,8 @@
   },
   "chat": {
     "newChat": "Nouveau Chat",
-    "placeholder": "Donne une tâche à Kortix...",
-    "inputPlaceholder": "Demande à Kortix de faire n'importe quoi...",
+    "placeholder": "Donne une tâche à AgentPrime...",
+    "inputPlaceholder": "Demande à AgentPrime de faire n'importe quoi...",
     "recording": "Enregistrement...",
     "cancelRecording": "Annuler",
     "stopRecording": "Arrêter",
@@ -88,7 +88,7 @@
     "newWorker": "Nouveau Worker",
     "myWorkers": "Mes Workers",
     "searchAgents": "Rechercher workers",
-    "defaultAgent": "Kortix",
+    "defaultAgent": "AgentPrime",
     "defaultDescription": "IA polyvalente pour toutes les tâches",
     "superWorker": "Super Worker",
     "coder": "Coder",
@@ -257,7 +257,7 @@
     "chooseModelFor": "Choisis un modèle pour {{agent}}"
   },
   "placeholders": {
-    "default": "Donne une tâche à Kortix...",
+    "default": "Donne une tâche à AgentPrime...",
     "search": "Rechercher...",
     "searchConversations": "Rechercher chats",
     "searchAgents": "Rechercher workers",

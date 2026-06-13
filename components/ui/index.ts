@@ -4,5 +4,5 @@ export { Icon } from './icon';
 export { Text } from './text';
 export { SearchBar } from './SearchBar';
 export { NativeOnlyAnimatedView } from './native-only-animated-view';
-export { KortixLoader } from './kortix-loader';
+export { AgentPrimeLoader } from './kortix-loader';
 

@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "Kortix",
-    "slug": "kortix",
+    "name": "AgentPrime",
+    "slug": "agentprime",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/AppIcon-Light.png",
-    "scheme": "kortix",
+    "scheme": "agentprime",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "splash": {
@@ -18,7 +18,7 @@
     ],
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.kortix.app",
+      "bundleIdentifier": "com.agentprime.app",
       "usesAppleSignIn": true
     },
     "android": {
@@ -27,7 +27,7 @@
         "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "com.kortix.app"
+      "package": "com.agentprime.app"
     },
     "web": {
       "bundler": "metro",
@@ -59,6 +59,6 @@
         "projectId": "9fca3cff-a291-41c9-88b9-feb8053b990f"
       }
     },
-    "owner": "kortix"
+    "owner": "agentprime"
   }
 }

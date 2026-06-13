@@ -1,7 +1,7 @@
 import * as React from 'react';
 import { View } from 'react-native';
 import { useRouter, Stack } from 'expo-router';
-import { KortixLoader } from '@/components/ui';
+import { AgentPrimeLoader } from '@/components/ui';
 import { useAuthContext } from '@/contexts';
 import { useOnboarding } from '@/hooks/useOnboarding';
 import { useAccountInitialization } from '@/hooks/useAccountInitialization';
@@ -49,7 +49,7 @@ export default function SplashScreen() {
     <>
       <Stack.Screen options={{ headerShown: false }} />
       <View className="flex-1 bg-background items-center justify-center">
-        <KortixLoader size="xlarge" />
+        <AgentPrimeLoader size="xlarge" />
       </View>
     </>
   );

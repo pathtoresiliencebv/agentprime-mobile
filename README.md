@@ -1,4 +1,4 @@
-# Kortix Mobile App
+# AgentPrime Mobile App
 
 Modern React Native + Expo mobile application with centralized API layer.
 

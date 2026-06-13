@@ -1,4 +1,4 @@
-# Kortix Mobile App - Build & Deploy Guide
+# AgentPrime Mobile App - Build & Deploy Guide
 
 ## 📱 Quick Start
 
